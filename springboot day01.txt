@@ -1,0 +1,16 @@
+
+安装jdk
+	配置环境变量错误
+安装mysql
+	不出现4个√  ---->卸载干净,重新安装
+	启动报错   -----> mysql服务未开启
+	不是内部或外部命令   ----->自动配置的环境变量错误,  bin的b大小写
+安装navicat
+	破解     ----->   复制破解navicat
+安装maven
+	环境变量配置错误
+	
+创建springboot
+	高版本pom文件报错 ---> <maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>,再更新项目
+@RequestBody	
+	用来接收前端传递给后端的json字符串中的数据的(请求体中的数据的)
